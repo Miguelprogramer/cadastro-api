@@ -1,0 +1,21 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Frios"
+    },
+    {
+      "id": 2,
+      "categoria": "Hortfruit"
+    },
+    {
+      "id": 3,
+      "categoria": "Bebida"
+    },
+    {
+      "id": 4,
+      "categoria": "Limpeza"
+    }
+  ],
+  "produtos": []
+}
